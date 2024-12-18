@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  17 DEC 2024 20:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  18 DEC 2024 13:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -226,31 +226,35 @@ Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 LaTeX Info: Redefining \bm on input line 219.
 )
-Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 59.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 59.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 59.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 59.
+Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 40.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 40.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 40.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 40.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box70
-) (./EbolaLatex.aux)
+) (./EbolaLatex.aux
+
+LaTeX Warning: Label `Ebola Map' multiply defined.
+
+)
 \openout1 = `EbolaLatex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count282
@@ -279,110 +283,186 @@ Class revtex4-2 Warning: Assuming \noaffiliation for authors.
 <SEIRD Model.png, id=1, 727.71875pt x 529.98pt>
 File: SEIRD Model.png Graphic file (type png)
 <use SEIRD Model.png>
-Package pdftex.def Info: SEIRD Model.png  used on input line 106.
+Package pdftex.def Info: SEIRD Model.png  used on input line 116.
 (pdftex.def)             Requested size: 255.0pt x 185.70602pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 106--107
+Overfull \hbox (9.0pt too wide) in paragraph at lines 116--117
  [][] 
  []
 
 [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 113.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 113.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<HealthcareA.png, id=12, 614.295pt x 395.3169pt>
-File: HealthcareA.png Graphic file (type png)
-<use HealthcareA.png>
-Package pdftex.def Info: HealthcareA.png  used on input line 160.
+<BaseModel.png, id=12, 614.295pt x 395.3169pt>
+File: BaseModel.png Graphic file (type png)
+<use BaseModel.png>
+Package pdftex.def Info: BaseModel.png  used on input line 169.
 (pdftex.def)             Requested size: 255.0pt x 164.1017pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 160--160
+Overfull \hbox (9.0pt too wide) in paragraph at lines 169--170
  [][] 
  []
 
-<HealthcareB.png, id=13, 614.295pt x 395.3169pt>
-File: HealthcareB.png Graphic file (type png)
-<use HealthcareB.png>
-Package pdftex.def Info: HealthcareB.png  used on input line 160.
+<HealthCareA.png, id=13, 614.295pt x 395.3169pt>
+File: HealthCareA.png Graphic file (type png)
+<use HealthCareA.png>
+Package pdftex.def Info: HealthCareA.png  used on input line 191.
 (pdftex.def)             Requested size: 255.0pt x 164.1017pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 160--160
+Overfull \hbox (9.0pt too wide) in paragraph at lines 191--192
  [][] 
  []
 
-<HealthcareC.png, id=14, 614.295pt x 395.3169pt>
-File: HealthcareC.png Graphic file (type png)
-<use HealthcareC.png>
-Package pdftex.def Info: HealthcareC.png  used on input line 160.
+<HealthCareB.png, id=14, 614.295pt x 395.3169pt>
+File: HealthCareB.png Graphic file (type png)
+<use HealthCareB.png>
+Package pdftex.def Info: HealthCareB.png  used on input line 197.
 (pdftex.def)             Requested size: 255.0pt x 164.1017pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 160--160
+Overfull \hbox (9.0pt too wide) in paragraph at lines 197--198
  [][] 
  []
 
-<ContainmentA.png, id=15, 614.295pt x 395.3169pt>
+<HealthCareC.png, id=15, 614.295pt x 395.3169pt>
+File: HealthCareC.png Graphic file (type png)
+<use HealthCareC.png>
+Package pdftex.def Info: HealthCareC.png  used on input line 203.
+(pdftex.def)             Requested size: 255.0pt x 164.1017pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 203--204
+ [][] 
+ []
+
+[2 <./SEIRD Model.png> <./BaseModel.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 218.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 218.
+
+
+Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
+
+<ContainmentA.png, id=23, 614.295pt x 395.3169pt>
 File: ContainmentA.png Graphic file (type png)
 <use ContainmentA.png>
-Package pdftex.def Info: ContainmentA.png  used on input line 166.
+Package pdftex.def Info: ContainmentA.png  used on input line 231.
 (pdftex.def)             Requested size: 255.0pt x 164.1017pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 166--167
+Overfull \hbox (9.0pt too wide) in paragraph at lines 231--232
  [][] 
  []
 
-<ContainmentB.png, id=16, 614.295pt x 395.3169pt>
+<ContainmentB.png, id=24, 614.295pt x 395.3169pt>
 File: ContainmentB.png Graphic file (type png)
 <use ContainmentB.png>
-Package pdftex.def Info: ContainmentB.png  used on input line 172.
+Package pdftex.def Info: ContainmentB.png  used on input line 237.
 (pdftex.def)             Requested size: 255.0pt x 164.1017pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 172--173
+Overfull \hbox (9.0pt too wide) in paragraph at lines 237--238
  [][] 
  []
 
-<ContainmentC.png, id=17, 614.295pt x 395.3169pt>
+<ContainmentC.png, id=25, 614.295pt x 395.3169pt>
 File: ContainmentC.png Graphic file (type png)
 <use ContainmentC.png>
-Package pdftex.def Info: ContainmentC.png  used on input line 178.
+Package pdftex.def Info: ContainmentC.png  used on input line 243.
 (pdftex.def)             Requested size: 255.0pt x 164.1017pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 178--179
+Overfull \hbox (9.0pt too wide) in paragraph at lines 243--244
  [][] 
  []
 
-[2 <./SEIRD Model.png> <./HealthcareA.png>]
+[3 <./HealthCareA.png> <./HealthCareB.png> <./HealthCareC.png> <./ContainmentA.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 182.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 253.
 
-[3 <./HealthcareB.png> <./HealthcareC.png> <./ContainmentA.png> <./ContainmentB.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 198.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 253.
+
+
+Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
+
+<bestcombo.png, id=33, 614.295pt x 395.3169pt>
+File: bestcombo.png Graphic file (type png)
+<use bestcombo.png>
+Package pdftex.def Info: bestcombo.png  used on input line 256.
+(pdftex.def)             Requested size: 255.0pt x 164.1017pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 256--257
+ [][] 
+ []
+
+<PeakInfectedAfrica.png, id=34, 554.3109pt x 492.8814pt>
+File: PeakInfectedAfrica.png Graphic file (type png)
+<use PeakInfectedAfrica.png>
+Package pdftex.def Info: PeakInfectedAfrica.png  used on input line 272.
+(pdftex.def)             Requested size: 255.0pt x 226.74323pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 272--273
+ [][] 
+ []
+
+<InteractiveMap.png, id=35, 565.11125pt x 338.26375pt>
+File: InteractiveMap.png Graphic file (type png)
+<use InteractiveMap.png>
+Package pdftex.def Info: InteractiveMap.png  used on input line 278.
+(pdftex.def)             Requested size: 255.0pt x 152.63535pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 278--279
+ [][] 
+ []
+
+[4 <./ContainmentB.png> <./ContainmentC.png> <./bestcombo.png> <./PeakInfectedAfrica.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 301.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 301.
+
+
+Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+ []\OT1/cmr/m/n/9 World Health Or-ga-ni-za-tion, 2014,
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 320--321
+ []\OT1/cmr/m/n/9 Centers for Dis-ease Con-trol and Pre-ven-tion, 2014,
+ []
 
 No file EbolaLatex.bbl.
-[4 <./ContainmentC.png>] (./EbolaLatex.aux)
+[5 <./InteractiveMap.png>] (./EbolaLatex.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 5317 strings out of 474172
- 75103 string characters out of 5745767
+ 5349 strings out of 474172
+ 75802 string characters out of 5745767
  1944539 words of memory out of 5000000
- 27585 multiletter control sequences out of 15000+600000
- 564083 words of font info for 58 fonts, out of 8000000 for 9000
+ 27618 multiletter control sequences out of 15000+600000
+ 563737 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,7n,79p,1078b,305s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on EbolaLatex.pdf (4 pages, 512692 bytes).
+ 71i,7n,79p,321b,308s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on EbolaLatex.pdf (5 pages, 884606 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
