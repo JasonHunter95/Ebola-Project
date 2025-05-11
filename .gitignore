@@ -1,0 +1,15 @@
+*.tex
+*.synctex
+*aux
+*.log
+*.bib
+
+
+*.html
+
+*.cpg
+*.dbf
+*.prj
+*.shx
+*.shp
+*.VERSION.txt
